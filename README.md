@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
+git@github.com:harshai07/NetflixHome.git
 ```
 
 2. Open the project in your preferred code editor.
@@ -33,9 +33,7 @@ git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code for personal or commercial purposes.
 
 ## Acknowledgements
 
@@ -46,8 +44,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Alok Sharma](https://linkedin.com/in/alok-sharma2002-)
-- Email: [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
+- Your Name : [Harsha](https://www.linkedin.com/in/harsha-i-70b28921b/)
+- Email: pavanharsha62@gmail.com](pavanharsha62@gmail.com)
 
 ---
 
